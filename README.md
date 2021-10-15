@@ -2,7 +2,7 @@
 - 🔭 I’m Be Hoang 
 - 🌱 Minh moi 3 tui thoi...
 - 💬 My Facebook : https://www.facebook.com/profile.php?id=100025917331174
-- 💗 💚 Love all 💙 💜 💗 💚
+- 💗 💚 Love all 💙 💜
 <!--
 **beHoang3tui/beHoang3tui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
