@@ -1,19 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m HoangLH
-- 🌱 
-- 💬 My Facebook : https://www.facebook.com/profile.php?id=100025917331174
-- 💗 💚 Love all 💙 💜
-<!--
-**beHoang3tui/beHoang3tui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m Be Hoang 
-- 🌱 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m HoangLH 💚
+- 🌱 Thanks for visiting my profile 💙 
+- 💗 Love all 💜
